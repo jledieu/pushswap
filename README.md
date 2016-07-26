@@ -11,12 +11,12 @@ Pour lancer le programme :
 - ./push_swap [2, -2, 5, 1, 24, 59, -244, 576, ...] (Mettez autant de nombre que vous voulez)
 
 Bonus :
--./push_swap -o : Liste des options
--./push_swap -c : Couleur
--./push_swap -a : Change l'algorithme (Pour les listes > 20)
--./push_swap -l : Voir le resultat final
--./push_swap -s : Voir toutes les operations
--./push_swap -n : Voir le nombre d'operations
+- ./push_swap -o : Liste des options
+- ./push_swap -c : Couleur
+- ./push_swap -a : Change l'algorithme (Pour les listes > 20)
+- ./push_swap -l : Voir le resultat final
+- ./push_swap -s : Voir toutes les operations
+- ./push_swap -n : Voir le nombre d'operations
 
 (Vous pouvez combiner plusieurs options : ./push_swap -c -l 5 2 3 -4 1 24 -255 -564 1024)
 
