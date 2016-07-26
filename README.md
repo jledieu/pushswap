@@ -10,6 +10,7 @@ Pour lancer le programme :
 - ./push_swap [2, -2, 5, 1, 24, 59, -244, 576, ...] (Mettez autant de nombre que vous voulez)
 
 Bonus :
+
 ./push_swap -o : Liste des options
 
 ./push_swap -c : Couleur
